@@ -1,4 +1,4 @@
->>Task 2-A -> Breadth First Search:
+>>Breadth First Search:
 --- Follows the convention of retreiving the shallow pages before traversing to the deeper    ones. 
 
 >Pros:
@@ -8,7 +8,7 @@
 >Cons: 
 1. Slow during traversal of deeper pages as queue would have already become huge
 
->>Task 2-B -> Depth First Search
+>>Depth First Search
 --- Follows the convention of traversing and retrieve the pages from the last depth before    moving to next breadth at any level
 
 >Pros:
