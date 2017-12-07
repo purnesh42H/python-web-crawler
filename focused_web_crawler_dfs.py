@@ -81,7 +81,7 @@ frontier    = dfsCrawler('https://en.wikipedia.org/wiki/Sustainable_energy', 'so
 
 writeFolder = os.getcwd() + '\\'
 urlMode     = 'a+'
-with open (writeFolder + 'wiki_urls_Task2-B.txt', urlMode) as u: #Adding Urls to text files
+with open (writeFolder + 'wiki_urls_focused_dfs.txt', urlMode) as u: #Adding Urls to text files
     for url in frontier:
         u.write(url + '\n')
 

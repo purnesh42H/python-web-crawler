@@ -75,7 +75,7 @@ def bfsCrawler(url, keyword):
 frontier    = bfsCrawler('https://en.wikipedia.org/wiki/Sustainable_energy', 'solar')
 writeFolder = os.getcwd() + '\\'
 urlMode     = 'a+'
-with open (writeFolder + 'wiki_urls_Task2-A.txt', urlMode) as u:
+with open (writeFolder + 'wiki_urls_focused_bfs.txt', urlMode) as u:
     for url in frontier:
         u.write(url + '\n')
 

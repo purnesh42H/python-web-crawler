@@ -71,7 +71,7 @@ def crawler(url):
 frontier    = crawler('https://en.wikipedia.org/wiki/Sustainable_energy')
 writeFolder = os.getcwd() + '\\'
 urlMode     = 'a+'
-with open (writeFolder + 'wiki_urls_Task1.txt', urlMode) as u:  # Adding urls to text file
+with open (writeFolder + 'wiki_urls_random.txt', urlMode) as u:  # Adding urls to text file
     for url in frontier:
         u.write(url + '\n')
 
