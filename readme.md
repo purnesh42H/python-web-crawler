@@ -1,5 +1,4 @@
-
-# These files are build on Python version 2.7x
+These files are build on Python version 2.7x
 
 # How to run the files:
 
