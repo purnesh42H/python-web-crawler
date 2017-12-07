@@ -20,7 +20,7 @@
 2. Low throughput and high cost
 
 
->> Comparing results of A and B for this assignment:
+>> Comparing results of A and B for the current run:
 1. A and B were able to fetch 1000 and 775 unique Urls respectively. The reason B fetched less    urls is due to url at which should have been found at pages before depth 5, might have been    found at depth 5 and since its the last depth, crawler never crawled it and missed out on      pages which were fetched by BFS crawler through those links.
 2. Top 3 Urls out of 5 were same for both A and B and then the order differs. This is due to      the fact that there was no further link from 2nd page.
 3. A Fetched more number of pages from depth 1 and 2 where as B fetched more number of pages      from depth 3 and 4.
