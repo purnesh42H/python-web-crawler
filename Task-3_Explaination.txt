@@ -1,0 +1,19 @@
+Step 1: Get the first url from file - Task-1.txt say Task-1_url1
+
+// Url present in both files is more important and must to add
+Step 2: Check if Task-1_url1 is present in file Task-2
+	if present, add the url to the new file 
+		and remove from Task-1.txt and Task-3.txt
+	else, repeat the step 1 for 1st url of file Task-3.txt
+        	for checking if it is present in Task-1 file
+Step 3: Repeat step 1 and 2 unless both files have all distinct urls
+Step 4: Calculate remaining space in new file i.e 1000 - currentFileLength say, X
+
+// Url present up the order are more important as they are from shallow pages
+Step 5: Fetch first X/2 urls from both files
+Step 6: Insert the urls in alternate fashion
+	insert the first url from Task-1.txt
+	followed by the first url of Task-3.txt
+
+Step 7: Repeat the step 6 for remaining urls until 1000 urls are added to new file
+

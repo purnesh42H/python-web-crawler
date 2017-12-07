@@ -1,0 +1,399 @@
+https://en.wikipedia.org/wiki/EKOenergy
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>EKOenergy - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"EKOenergy","wgTitle":"EKOenergy","wgCurRevisionId":730752845,"wgRevisionId":730752845,"wgArticleId":27078765,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Renewable energy certification","Renewable energy organizations","Organisations based in Helsinki","Organizations established in 2013","2013 establishments in Finland"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"EKOenergy","wgRelevantArticleId":27078765,"wgRequestId":"WAqXqwpAMFkAAD3mkIAAAAAN","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikibaseItemId":"Q5323245","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.ReferenceTooltips%2Cfeatured-articles-links%2Cteahouse%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.28.0-wmf.22"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/EKOenergy"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=EKOenergy&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=EKOenergy&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/EKOenergy"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-EKOenergy rootpage-EKOenergy skin-vector action-view feature-footer-v2">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">EKOenergy</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div role="note" class="hatnote">For the Canadian government initiative, see <a href="/wiki/Ecoenergy" title="Ecoenergy">Ecoenergy</a>.</div>
+<table class="infobox vcard" style="width:22em">
+<caption class="fn org">EKOenergy</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:EKO_symbol_RGB.jpg" class="image"><img alt="EKO symbol RGB.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/EKO_symbol_RGB.jpg/220px-EKO_symbol_RGB.jpg" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/commons/a/a6/EKO_symbol_RGB.jpg 1.5x" data-file-width="300" data-file-height="300" /></a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Formation</th>
+<td class="note">2013</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Type</th>
+<td>Non-profit network</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Purpose</th>
+<td>Environmental protection, promotion of renewable energy</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Headquarters</th>
+<td>Helsinki, Finland</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">
+<div style="padding:0.1em 0;line-height:1.2em;">Area served</div>
+</th>
+<td>International</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">
+<div style="padding:0.1em 0;line-height:1.2em;">Staff</div>
+</th>
+<td>3</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">
+<div style="padding:0.1em 0;line-height:1.2em;">Volunteers</div>
+</th>
+<td>over 100</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Website</th>
+<td><span class="url"><a rel="nofollow" class="external text" href="http://www.ekoenergy.org">www<wbr />.ekoenergy<wbr />.org</a></span></td>
+</tr>
+</table>
+<p>EKOenergy is a network of over 40 environmental organisations from across the globe. The head office/secretariat is based in Helsinki. The network supports the growth of renewable energy in the world and the protection of the climate and environment. The primary focus of the network is promoting EKOenergy’s international ecolabel for green electricity. EKOenergy is not affiliated Canadian heating and cooling company "Ekoenergy".</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Aims_and_motivation"><span class="tocnumber">1</span> <span class="toctext">Aims and motivation</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Network"><span class="tocnumber">2</span> <span class="toctext">Network</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#History"><span class="tocnumber">2.1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Governance"><span class="tocnumber">2.2</span> <span class="toctext">Governance</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Members"><span class="tocnumber">2.3</span> <span class="toctext">Members</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Label"><span class="tocnumber">3</span> <span class="toctext">Label</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Aspects_covered"><span class="tocnumber">3.1</span> <span class="toctext">Aspects covered</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Internationality"><span class="tocnumber">3.2</span> <span class="toctext">Internationality</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Results"><span class="tocnumber">4</span> <span class="toctext">Results</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Climate_Fund"><span class="tocnumber">4.1</span> <span class="toctext">Climate Fund</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Environmental_Fund"><span class="tocnumber">4.2</span> <span class="toctext">Environmental Fund</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#In_other_standards"><span class="tocnumber">5</span> <span class="toctext">In other standards</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#LEED"><span class="tocnumber">5.1</span> <span class="toctext">LEED</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Greenhouse_Gas_Protocol"><span class="tocnumber">5.2</span> <span class="toctext">Greenhouse Gas Protocol</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#CDP"><span class="tocnumber">5.3</span> <span class="toctext">CDP</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Aims_and_motivation">Aims and motivation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=EKOenergy&amp;action=edit&amp;section=1" title="Edit section: Aims and motivation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>stimulate the development of the renewable electricity sector</li>
+<li>contribute to the protection of <a href="/wiki/Biodiversity" title="Biodiversity">biodiversity</a>, <a href="/wiki/Habitat" title="Habitat">habitats</a> and <a href="/wiki/Ecosystem" title="Ecosystem">ecosystem</a> services</li>
+<li>inform consumers about the electricity they are buying and the impact of their purchase</li>
+<li>foster dialogue and join forces with the electricity sector, environmental <a href="/wiki/NGO" class="mw-redirect" title="NGO">NGOs</a> and other stakeholders (e.g. consumer organisations and authorities)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="Network">Network</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=EKOenergy&amp;action=edit&amp;section=2" title="Edit section: Network">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=EKOenergy&amp;action=edit&amp;section=3" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>EKOenergy was developed out of the Finnish Norppaenergia, the first ecolabel for electricity in the world (in collaboration with Swedish Bra Miljöval). FANC (The Finnish Association for Nature Conservation), the biggest environmental NGO in Finland managed the Norppaenergia label since 1998.</p>
+<p>In May 2010, FANC announced its intention to create an international ecolabel for electricity. <a href="/wiki/Bellona_Foundation" title="Bellona Foundation">Bellona Russia</a>, the <a href="/wiki/Estonian_Nature_Fund" title="Estonian Nature Fund">Estonian Nature Fund</a>, the Latvian Fund for Nature, Ecoserveis and AccioNatura from Spain, as well as 100% Energia Verde and REEF from Italy joined the project shortly after. In the initial stages of setting up the network, <a href="/wiki/RECS" class="mw-redirect" title="RECS">RECS</a> International also offered its cooperation. Following several rounds of public consultation, on 23rd February 2013, the EKOenergy Board approved the text ‘EKOenergy – Network and Label’.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<h3><span class="mw-headline" id="Governance">Governance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=EKOenergy&amp;action=edit&amp;section=4" title="Edit section: Governance">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The governance of the network consists of the Board, the advisory group and the arbitration panel. Every network member selects one representative to be on the Board. The EKOenergy office is hosted by FANC. The work in the office is supported, alongside the staff, by long term volunteers from the <a href="/wiki/European_Voluntary_Service" title="European Voluntary Service">European Voluntary Service</a> and trainees.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<h3><span class="mw-headline" id="Members">Members</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=EKOenergy&amp;action=edit&amp;section=5" title="Edit section: Members">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The network consists of 40 environmental organisations from 30 European countries. The members included some of the biggest national environmental organisations and small organisations specialised in renewable energy. Every member organisation appoints one person to the Board. All decisions are taken with a 3/4 majority decision.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<h2><span class="mw-headline" id="Label">Label</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=EKOenergy&amp;action=edit&amp;section=6" title="Edit section: Label">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="floatright"><a href="/wiki/File:EKOenergy_logo.jpg" class="image" title="thumbnail"><img alt="thumbnail" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/EKOenergy_logo.jpg/220px-EKOenergy_logo.jpg" width="220" height="77" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/EKOenergy_logo.jpg/330px-EKOenergy_logo.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/EKOenergy_logo.jpg/440px-EKOenergy_logo.jpg 2x" data-file-width="1181" data-file-height="413" /></a></div>
+<h3><span class="mw-headline" id="Aspects_covered">Aspects covered</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=EKOenergy&amp;action=edit&amp;section=7" title="Edit section: Aspects covered">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The EKOenergy label is the most visible tool of the network. It is the only European ecolabel for 100% green electricity. Electricity can only be sold as EKOenergy if the product fulfils the criteria, which are defined by the network. It includes the following aspects:</p>
+<ul>
+<li>Correct consumer information</li>
+<li>100% renewability</li>
+<li><a href="/wiki/Sustainability" title="Sustainability">Sustainability</a></li>
+<li><a href="/wiki/Climate" title="Climate">Climate</a></li>
+<li><a href="/wiki/Guarantee_of_origin" title="Guarantee of origin">Tracking</a> and avoidance of double counting<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></li>
+</ul>
+<h3><span class="mw-headline" id="Internationality">Internationality</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=EKOenergy&amp;action=edit&amp;section=8" title="Edit section: Internationality">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>More than 20 electricity suppliers from 12 countries currently offer EKOenergy certified electricity. Environmental organisations from 30 countries support EKOenergy.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> The website is available in 38 languages. Well-known consumers include <a href="/wiki/The_Body_Shop" title="The Body Shop">The Body Shop</a> Finland, Globe Hope, Jalotofu and the <a href="/wiki/Otava_(publisher)" title="Otava (publisher)">Otava</a> Group, which is one of the biggest media companies in Finland. Plasthill, a family-run business in Eastern Finland, was the first company to start using ecolabelled electricity in their production.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<h2><span class="mw-headline" id="Results">Results</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=EKOenergy&amp;action=edit&amp;section=9" title="Edit section: Results">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Eko_tan.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Eko_tan.jpg/220px-Eko_tan.jpg" width="220" height="124" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Eko_tan.jpg/330px-Eko_tan.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Eko_tan.jpg/440px-Eko_tan.jpg 2x" data-file-width="1024" data-file-height="576" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Eko_tan.jpg" class="internal" title="Enlarge"></a></div>
+Solar project in Tanzania</div>
+</div>
+</div>
+<p>For every EKOenergy purchase, money goes into the Climate Fund. In the case of EKOenergy from <a href="/wiki/Hydropower" title="Hydropower">hydropower</a>, money also goes into the Environmental Fund.</p>
+<h3><span class="mw-headline" id="Climate_Fund">Climate Fund</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=EKOenergy&amp;action=edit&amp;section=10" title="Edit section: Climate Fund">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <b>Climate Fund</b> finances renewable energy projects. The first project funded was a solar energy project in <a href="/wiki/Tanzania" title="Tanzania">Tanzania</a>. In 2011, the Italian <a href="/wiki/NGO" class="mw-redirect" title="NGO">NGO</a> Oikos received <a href="/wiki/EU" class="mw-redirect" title="EU">EU</a> funding to install a small <a href="/wiki/Water_turbine" title="Water turbine">hydro turbine</a> near the Ngarenanyuki Secondary School in the Meru District, Northern Tanzania. In the dry season and during irrigation time, the school often remains without electricity. In May 2014, EKOenergy donated €10,000 to Oikos to install 3<a href="/wiki/Nominal_power_(photovoltaic)" title="Nominal power (photovoltaic)">kWp</a> of <a href="/wiki/Solar_panel" title="Solar panel">solar panels</a> on the roof of the school.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> In June 2015, EKOenergy donated a further €18,000 to a project to install solar panels on three schools in South <a href="/wiki/Cameroon" title="Cameroon">Cameroon</a> for the Swiss organisation Solafrica.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p>
+<h3><span class="mw-headline" id="Environmental_Fund">Environmental Fund</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=EKOenergy&amp;action=edit&amp;section=11" title="Edit section: Environmental Fund">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Eko_flu.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Eko_flu.jpg/220px-Eko_flu.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Eko_flu.jpg/330px-Eko_flu.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/53/Eko_flu.jpg/440px-Eko_flu.jpg 2x" data-file-width="600" data-file-height="400" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Eko_flu.jpg" class="internal" title="Enlarge"></a></div>
+River restorations</div>
+</div>
+</div>
+<p>The <b>Environmental Fund</b> finances river restoration projects which reduce the negative impacts of hydropower production. The EKOenergy Network took over an existing fund of the old Finnish ecolabel for electricity, which was managed by FANC. Since 2009, the Environmental Fund has donated a total of €564,000 to projects. For example, EKOenergy invested €50,000 from its Environmental Fund to bring <a href="/wiki/Trout" title="Trout">trout</a> and <a href="/wiki/Astacus_astacus" title="Astacus astacus">European crayfish</a> back to the River Murronjoki, in Saarijärvi, Central Finland. The contributions to the Fund came from sales of EKOenergy labelled hydropower. The River Murronjoki had been heavily affected by hydropower plants and other industrial activities which were hindering trout migration.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<h2><span class="mw-headline" id="In_other_standards">In other standards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=EKOenergy&amp;action=edit&amp;section=12" title="Edit section: In other standards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="LEED">LEED</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=EKOenergy&amp;action=edit&amp;section=13" title="Edit section: LEED">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The European versions of the <a href="/wiki/Leadership_in_Energy_and_Environmental_Design" title="Leadership in Energy and Environmental Design">LEED</a> Standard explicitly recommend the use of EKOenergy labelled electricity. Buildings aiming at LEED certification can get extra points if the electricity used in that building is EKOenergy certified. The text “LEED 2009 BD+C Supplemental Reference Guide with Alternative Compliance Paths for Europe” gives EKOenergy the same status as Green-e certified RECs in the US. They write: "The EKOenergy electricity certification scheme represents the best available pan-European option for the sustainable and additional consumption of renewable electricity within Europe. EKOenergy certifies renewable electricity that goes beyond the regulations of European directives and national governments of Europe."<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<h3><span class="mw-headline" id="Greenhouse_Gas_Protocol">Greenhouse Gas Protocol</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=EKOenergy&amp;action=edit&amp;section=14" title="Edit section: Greenhouse Gas Protocol">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Greenhouse Gas Protocol is a worldwide standard for <a href="/wiki/Carbon_accounting" title="Carbon accounting">carbon accounting</a>. It is a joint product of the <a href="/wiki/World_Resources_Institute" title="World Resources Institute">World Resources Institute</a> and the <a href="/wiki/World_Business_Council_for_Sustainable_Development" title="World Business Council for Sustainable Development">World Business Council for Sustainable Development</a>. In January 2015, the Secretariat of the Greenhouse Gas Protocol published the Scope 2 Guidance, which gave advice about carbon accounting. The Guidance refers to EKOenergy several times. Chapter 11, which encourages companies to go one step further, refers to EKOenergy’s Climate Fund.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<h3><span class="mw-headline" id="CDP">CDP</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=EKOenergy&amp;action=edit&amp;section=15" title="Edit section: CDP">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>CDP works with 3000 of the largest corporations in the world to help them calculate their carbon emissions and to help them develop effective carbon emission reduction strategies. On page 15 and 16 of its technical notes for accounting of scope 2 emissions (i.e. emissions related to the production of purchased electricity), CDP explains how companies can do more. “Ecolabels are a way for companies to do more with their purchases. EKOenergy, mentioned by the GHG protocol Scope 2 guidance, is such an option: it is a mark of quality which comes on top of tracking certificates. Electricity sold with the EKOenergy label fulfills strict environmental criteria and raises funds for new renewable energy projects. Involvement, transparency and ‘deeds not words’ are important principles of EKOenergy’s work.”</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=EKOenergy&amp;action=edit&amp;section=16" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.ekoenergy.org/about-us">http://www.ekoenergy.org/about-us</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.ekoenergy.org/about-us/history">http://www.ekoenergy.org/about-us/history</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.ekoenergy.org/about-us/governance/">http://www.ekoenergy.org/about-us/governance/</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.ekoenergy.org/about-us/members/">http://www.ekoenergy.org/about-us/members/</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.ekoenergy.org/ecolabel/aspects/">http://www.ekoenergy.org/ecolabel/aspects/</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.ekoenergy.org/how-to-buy-ekoenergy/households/">http://www.ekoenergy.org/how-to-buy-ekoenergy/households/</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.ekoenergy.org/how-to-buy-ekoenergy/consumers/">http://www.ekoenergy.org/how-to-buy-ekoenergy/consumers/</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.ekoenergy.org/our-results/climate-fund/oikosproject/">http://www.ekoenergy.org/our-results/climate-fund/oikosproject/</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.ekoenergy.org/our-results/climate-fund/solar-for-cameroon/">http://www.ekoenergy.org/our-results/climate-fund/solar-for-cameroon/</a></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.ekoenergy.org/our-results/environmental-fund/">http://www.ekoenergy.org/our-results/environmental-fund/</a></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.usgbc.org/sites/default/files/LEED%202009%20RG%20EBOM-Supplement%20with%20Europe%20ACPs%20-%205.2015%20UPDATE.pdf">http://www.usgbc.org/sites/default/files/LEED%202009%20RG%20EBOM-Supplement%20with%20Europe%20ACPs%20-%205.2015%20UPDATE.pdf</a></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://ghgprotocol.org/files/ghgp/Scope%202%20Guidance_Final.pdf">http://ghgprotocol.org/files/ghgp/Scope%202%20Guidance_Final.pdf</a></span></li>
+</ol>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=EKOenergy&amp;action=edit&amp;section=17" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a rel="nofollow" class="external free" href="http://www.ekoenergy.org">http://www.ekoenergy.org</a></p>
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:27078765-0!*!0!!en!4!* and timestamp 20161013012351 and revision id 730752845
+ -->
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"teahouse\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"featured-articles-links\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");});</script><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=EKOenergy&amp;oldid=730752845">https://en.wikipedia.org/w/index.php?title=EKOenergy&amp;oldid=730752845</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Renewable_energy_certification" title="Category:Renewable energy certification">Renewable energy certification</a></li><li><a href="/wiki/Category:Renewable_energy_organizations" title="Category:Renewable energy organizations">Renewable energy organizations</a></li><li><a href="/wiki/Category:Organisations_based_in_Helsinki" title="Category:Organisations based in Helsinki">Organisations based in Helsinki</a></li><li><a href="/wiki/Category:Organizations_established_in_2013" title="Category:Organizations established in 2013">Organizations established in 2013</a></li><li><a href="/wiki/Category:2013_establishments_in_Finland" title="Category:2013 establishments in Finland">2013 establishments in Finland</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=EKOenergy" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=EKOenergy" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/EKOenergy"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:EKOenergy"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/EKOenergy" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=EKOenergy&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=EKOenergy&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/EKOenergy" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/EKOenergy" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=EKOenergy&amp;oldid=730752845" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=EKOenergy&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q5323245" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=EKOenergy&amp;id=730752845" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=EKOenergy">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=EKOenergy&amp;returnto=EKOenergy&amp;oldid=730752845&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=EKOenergy&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/EKOenergie" title="EKOenergie – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/EKOenergy" title="EKOenergy – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Ekoenergy" title="Ekoenergy – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/EKOenergy" title="EKOenergy – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Ekoenergia" title="Ekoenergia – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q5323245#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 20 July 2016, at 23:04.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=EKOenergy&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.108",
+            "walltime": "0.134",
+            "ppvisitednodes": {
+                "value": 1008,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 4289,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 307,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 9,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 0,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 0,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%   95.872      1 -total",
+                " 75.25%   72.148      1 Template:Infobox_organization",
+                " 56.06%   53.749      1 Template:Infobox",
+                " 24.62%   23.607      1 Template:For",
+                " 14.40%   13.809      2 Template:Unbulleted_list",
+                "  7.52%    7.205      4 Template:If_empty",
+                "  7.15%    6.856      4 Template:Comma_separated_entries",
+                "  3.88%    3.717      1 Template:URL",
+                "  1.71%    1.635      3 Template:Longitem"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.035",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 1763925,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1272",
+            "timestamp": "20161013012351",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":57,"wgHostname":"mw1254"});});</script>
+	</body>
+</html>

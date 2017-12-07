@@ -1,0 +1,28 @@
+>>Task 2-A -> Breadth First Search:
+--- Follows the convention of retreiving the shallow pages before traversing to the deeper    ones. 
+
+>Pros:
+1. Fetches more relevant and popular pages as in general, most of the websites store all       related pages at one level.
+2. Higher throughput and less cost
+
+>Cons: 
+1. Slow during traversal of deeper pages as queue would have already become huge
+
+>>Task 2-B -> Depth First Search
+--- Follows the convention of traversing and retrieve the pages from the last depth before    moving to next breadth at any level
+
+>Pros:
+1. Ensures higher coverage as all the interrelated links are traversed until the last depth
+2. Fast and relevant for a very specific query
+
+>Cons:
+1. Fetches higher number of less relevant pages for a general query as the context of keyword     changes as we go deeper
+2. Low throughput and high cost
+
+
+>> Comparing results of A and B for this assignment:
+1. A and B were able to fetch 1000 and 775 unique Urls respectively. The reason B fetched less    urls is due to url at which should have been found at pages before depth 5, might have been    found at depth 5 and since its the last depth, crawler never crawled it and missed out on      pages which were fetched by BFS crawler through those links.
+2. Top 3 Urls out of 5 were same for both A and B and then the order differs. This is due to      the fact that there was no further link from 2nd page.
+3. A Fetched more number of pages from depth 1 and 2 where as B fetched more number of pages      from depth 3 and 4.
+4. A fetched general pages related to solar energy and different plants located across world      up the order as more number of pages were from page 1 and 2 where B fetched pages more         pages related to solar energy, how it is producted and its uses as for each page we went       deeper to get specific information about each link.
+5. Although both fetched many pages same as each other, B fetched more variety of pages within    the context of energy and power where as A fetched less varied pages.

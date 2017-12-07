@@ -1,0 +1,497 @@
+https://en.wikipedia.org/wiki/Green_Building_(MIT)
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Green Building (MIT) - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Green_Building_(MIT)","wgTitle":"Green Building (MIT)","wgCurRevisionId":702403753,"wgRevisionId":702403753,"wgArticleId":2621926,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from January 2011","Structurae ID not in Wikidata","Coordinates on Wikidata","Buildings and structures completed in 1964","Massachusetts Institute of Technology buildings","I. M. Pei buildings"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Green_Building_(MIT)","wgRelevantArticleId":2621926,"wgRequestId":"WAu0rwpAMF0AAKiomMoAAABF","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCoordinates":{"lat":42.360431,"lon":-71.089109},"wgWikibaseItemId":"Q5602382","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.ReferenceTooltips%2Cfeatured-articles-links%2Cteahouse%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.28.0-wmf.22"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Green_Building_(MIT)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Green_Building_(MIT)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Green_Building_(MIT)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Green_Building_(MIT)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Green_Building_MIT rootpage-Green_Building_MIT skin-vector action-view feature-footer-v2">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Green Building (MIT)</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div role="note" class="hatnote">See also: <a href="/wiki/Campus_of_the_Massachusetts_Institute_of_Technology" title="Campus of the Massachusetts Institute of Technology">Campus of the Massachusetts Institute of Technology</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Green_Building,_MIT,_Cambridge,_Massachusetts.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Green_Building%2C_MIT%2C_Cambridge%2C_Massachusetts.JPG/250px-Green_Building%2C_MIT%2C_Cambridge%2C_Massachusetts.JPG" width="250" height="333" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Green_Building%2C_MIT%2C_Cambridge%2C_Massachusetts.JPG/375px-Green_Building%2C_MIT%2C_Cambridge%2C_Massachusetts.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Green_Building%2C_MIT%2C_Cambridge%2C_Massachusetts.JPG/500px-Green_Building%2C_MIT%2C_Cambridge%2C_Massachusetts.JPG 2x" data-file-width="1920" data-file-height="2560" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Green_Building,_MIT,_Cambridge,_Massachusetts.JPG" class="internal" title="Enlarge"></a></div>
+Green Building, <a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">Massachusetts Institute of Technology</a>.</div>
+</div>
+</div>
+<p>The <b>Cecil and Ida Green Building</b>, also called the <b>Green Building</b> or <b>Building 54</b>, is an academic and research building at the <a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">Massachusetts Institute of Technology</a>, <a href="/wiki/Cambridge,_Massachusetts" title="Cambridge, Massachusetts">Cambridge, Massachusetts</a>, <a href="/wiki/United_States" title="United States">United States</a>. It was designed by <a href="/wiki/Araldo_Cossutta" title="Araldo Cossutta">Araldo Cossutta</a> and <a href="/wiki/I._M._Pei" title="I. M. Pei">I. M. Pei</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Pei, among the world's most noted architects, had received his bachelor's degree from MIT in 1940. Principal donor <a href="/wiki/Cecil_Howard_Green" title="Cecil Howard Green">Cecil Howard Green</a> received a bachelor's degree and master's degree from MIT and was a co-founder of <a href="/wiki/Texas_Instruments" title="Texas Instruments">Texas Instruments</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Architecture"><span class="tocnumber">1</span> <span class="toctext">Architecture</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Occupancy"><span class="tocnumber">2</span> <span class="toctext">Occupancy</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Problems"><span class="tocnumber">3</span> <span class="toctext">Problems</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Hacks"><span class="tocnumber">4</span> <span class="toctext">Hacks</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Pumpkin_Drop"><span class="tocnumber">4.1</span> <span class="toctext">Pumpkin Drop</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Art"><span class="tocnumber">5</span> <span class="toctext">Art</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Architecture">Architecture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Building_(MIT)&amp;action=edit&amp;section=1" title="Edit section: Architecture">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Green Building was constructed during 1962-1964, in <a href="/wiki/Reinforced_concrete" title="Reinforced concrete">reinforced concrete</a>. It has 18 floors, equivalent to 21 stories or 295 feet (90&#160;m) tall, with a concrete facade that more or less matches the <a href="/wiki/Limestone" title="Limestone">limestone</a> and concrete of the older MIT buildings near it. The basement of the building is below <a href="/wiki/Sea_level" title="Sea level">sea level</a><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2011)">citation needed</span></a></i>]</sup> and connects to the MIT <a href="/wiki/Tunnel" title="Tunnel">tunnel</a> system. Three <a href="/wiki/Elevator" title="Elevator">elevators</a> operate in the Green Building. There are <a href="/wiki/Staircases" class="mw-redirect" title="Staircases">staircases</a> at both the east and west sides, whose exterior facades present a vast windowless expanse relieved only by one-story tall concrete recessed panels. On the "LL" level (actually one story above ground level), is Room 54-100, a large <a href="/wiki/Lecture_hall" title="Lecture hall">lecture hall</a>. The second floor formerly housed the Lindgren Library, part of MIT's library system, but this separate facility was consolidated into another library in 2009.</p>
+<p>The Green Building is the tallest building in <a href="/wiki/Cambridge,_MA" class="mw-redirect" title="Cambridge, MA">Cambridge</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-Emporis_3-0" class="reference"><a href="#cite_note-Emporis-3">[3]</a></sup> When it was built, there was a limit on the number of floors.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2011)">citation needed</span></a></i>]</sup> Thus, it was designed to be on stilts, with the first occupied floor approximately 30 feet above grade in order to "circumvent" this law.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2011)">citation needed</span></a></i>]</sup> The footprint of every floor measures only 60 by 120 feet (18 by 36m), which research groups quickly outgrew, forcing some of them to disperse elsewhere on campus.<sup id="cite_ref-Simha_4-0" class="reference"><a href="#cite_note-Simha-4">[4]</a></sup></p>
+<p>The tower's height has some functional purpose, since its roof supports <a href="/wiki/Meteorology" title="Meteorology">meteorological instruments</a> and radio communications equipment, plus a white spherical <a href="/wiki/Radome" title="Radome">radome</a> enclosing long-distance <a href="/wiki/Weather_radar" title="Weather radar">weather radar</a> apparatus. This technical equipment all requires a <a href="/wiki/Line-of-sight_propagation" title="Line-of-sight propagation">line-of-sight</a> vantage point for optimum range and accuracy, and would have required construction of some kind of tower to function as intended. To minimize interference with radio signals, other buildings on MIT's <a href="/wiki/MIT_campus" class="mw-redirect" title="MIT campus">central campus</a> are less than half the height of the Green Building, and the dormitory towers of Eastgate, Westgate, and MacGregor House are at least 1500&#160;feet (450&#160;m) away.<sup id="cite_ref-MITMap_5-0" class="reference"><a href="#cite_note-MITMap-5">[5]</a></sup></p>
+<h2><span class="mw-headline" id="Occupancy">Occupancy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Building_(MIT)&amp;action=edit&amp;section=2" title="Edit section: Occupancy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Green Building is the main facility of the Department of Earth, Atmospheric, and Planetary Science (EAPS), also known as Course 12. The departmental headquarters is on the 9th floor of the building. The lower floors of the building contain the <a href="/wiki/Planetary_Science" class="mw-redirect" title="Planetary Science">Planetary Science</a> section. The middle floors have the <a href="/wiki/Earth_Science" class="mw-redirect" title="Earth Science">Earth Science</a> section (<a href="/wiki/Geology" title="Geology">Geology</a>, <a href="/wiki/Geophysics" title="Geophysics">Geophysics</a>, and <a href="/wiki/Geochemistry" title="Geochemistry">Geochemistry</a>). The upper floors house the <a href="/wiki/Atmospheric_Science" class="mw-redirect" title="Atmospheric Science">Atmospheric Science</a> section (which also includes <a href="/wiki/Oceanography" title="Oceanography">Oceanography</a> and <a href="/wiki/Climatology" title="Climatology">Climatology</a>).</p>
+<h2><span class="mw-headline" id="Problems">Problems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Building_(MIT)&amp;action=edit&amp;section=3" title="Edit section: Problems">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>When the Green Building was first opened, the isolated prominence of the building and its relative proximity to the <a href="/wiki/Charles_River" title="Charles River">Charles River</a> basin increased wind speeds in the high open archway at its base, preventing people from entering or leaving the building through the hinged main doors on windy days, necessitating use of a tunnel connecting to the other buildings.<sup id="cite_ref-Dickson_6-0" class="reference"><a href="#cite_note-Dickson-6">[6]</a></sup> Large wood panels were temporarily erected in the open concourse to block the wind, and <a href="/wiki/Revolving_door" title="Revolving door">revolving doors</a> were later installed at the ground floor entries to amend this problem somewhat.<sup id="cite_ref-Dickson_6-1" class="reference"><a href="#cite_note-Dickson-6">[6]</a></sup> Several windows cracked, and at least one large pane popped out on upper stories, at least in part due to the effects of wind, eventually requiring all the windows to be replaced.<sup id="cite_ref-Dickson_6-2" class="reference"><a href="#cite_note-Dickson-6">[6]</a></sup> A few years later, a similar-appearing problem was repeated in Boston's <a href="/wiki/John_Hancock_Tower" title="John Hancock Tower">John Hancock Tower</a> located in <a href="/wiki/Back_Bay" class="mw-redirect" title="Back Bay">Back Bay</a> across the river, a 60-story skyscraper which happened to be designed by the same architectural firm.</p>
+<p>It is incorrectly rumored that <a href="/wiki/Alexander_Calder" title="Alexander Calder">Alexander Calder</a>'s monumental sculpture <i>The Big Sail</i>, was situated in front of the building to deflect the high winds. The sculpture is located too far from the building entryway to have much effect on wind velocities there.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<h2><span class="mw-headline" id="Hacks">Hacks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Building_(MIT)&amp;action=edit&amp;section=4" title="Edit section: Hacks">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Because of its height and visibility from the Boston <a href="/wiki/Back_Bay" class="mw-redirect" title="Back Bay">Back Bay</a> neighborhood across the <a href="/wiki/Charles_River" title="Charles River">Charles River</a> Basin, plus its rectangular grid of large 6-by-8-foot (1.8&#160;m ×&#160;2.4&#160;m) upright rectangular single-pane windows forming a crude 9 x 18 <a href="/wiki/Dot-matrix_display" title="Dot-matrix display">dot-matrix display</a>, the Green Building has been the site of many <a href="/wiki/Hacks_at_the_Massachusetts_Institute_of_Technology" title="Hacks at the Massachusetts Institute of Technology">hacks</a> or pranks.<sup id="cite_ref-GreenBldgHacks_8-0" class="reference"><a href="#cite_note-GreenBldgHacks-8">[8]</a></sup> In 1993, one widely viewed hack repurposed the nine top-floor windows as an enormous digital <a href="/wiki/VU_meter" title="VU meter">VU meter</a> for the traditional <a href="/wiki/Fourth_of_July" class="mw-redirect" title="Fourth of July">Fourth of July</a> concert of the <a href="/wiki/Boston_Pops" class="mw-redirect" title="Boston Pops">Boston Pops</a> orchestra.<sup id="cite_ref-VUMeterHack_9-0" class="reference"><a href="#cite_note-VUMeterHack-9">[9]</a></sup> Several other simpler hacks have used the entire window array for stationary displays; this practice is sufficiently commonplace to have acquired the term <b>greenspeak</b><sup id="cite_ref-NightworkGreenspeak_10-0" class="reference"><a href="#cite_note-NightworkGreenspeak-10">[10]</a></sup><sup id="cite_ref-Greenspeak_11-0" class="reference"><a href="#cite_note-Greenspeak-11">[11]</a></sup> (which should not be confused with the famously obscure <a href="/wiki/Pythia" title="Pythia">Delphic</a> pronouncements<sup id="cite_ref-GreenspeakUVa_12-0" class="reference"><a href="#cite_note-GreenspeakUVa-12">[12]</a></sup><sup id="cite_ref-FRBDallas_13-0" class="reference"><a href="#cite_note-FRBDallas-13">[13]</a></sup> of former <a href="/wiki/Federal_Reserve_Bank" title="Federal Reserve Bank">Federal Reserve Bank</a> chairman <a href="/wiki/Alan_Greenspan" title="Alan Greenspan">Alan Greenspan</a>).</p>
+<p>In September 2011, hackers installed 153 (= 9 x 17) custom-made wirelessly controlled color-changing high-power <a href="/wiki/LED" class="mw-redirect" title="LED">LED</a> lights into every window above the first floor. They displayed a waving <a href="/wiki/American_flag" class="mw-redirect" title="American flag">American flag</a> throughout the evening of September 11, 2011 in remembrance of the <a href="/wiki/September_11_attacks" title="September 11 attacks">September 11 attacks</a> of 2001. For a short time in the early morning of September 12, the lights displayed a <a href="/wiki/Tetris" title="Tetris">Tetris</a> game, thus realizing a long-standing hack proposal, the "<a href="/wiki/Holy_Grail" title="Holy Grail">Holy Grail</a>" of hacks. The display hardware had occasional glitches, and was removed as of September 13. The hardware and software designs were further developed and refined for better reliability. On April 20, 2012, MIT hackers successfully turned the Green Building into a huge, playable Tetris game, operated from a wireless control podium at a comfortable viewing distance in front of the building. Visitors to Campus Preview Weekend (a gathering for admitted prospective freshman students) were invited to play the game on the colossal 80-by-250-foot (24&#160;m ×&#160;76&#160;m) display grid, which was claimed to be the second-largest full-color video display in the US.<sup id="cite_ref-Pourian_14-0" class="reference"><a href="#cite_note-Pourian-14">[14]</a></sup><sup id="cite_ref-Parker_15-0" class="reference"><a href="#cite_note-Parker-15">[15]</a></sup><sup id="cite_ref-HackGalleryTetris_16-0" class="reference"><a href="#cite_note-HackGalleryTetris-16">[16]</a></sup></p>
+<p>Instead of a one-shot temporary installation, the hackers have designed and built a permanent facility that can be re-used repeatedly by the MIT community. An understanding has been reached with the Department of Earth, Atmospheric and Planetary Sciences (EAPS), which is headquartered in the Green Building, to allow the light display hardware to remain installed in each window. To avoid annoying the occupants and to allow late-working staff to "opt out", each light display is equipped with a <a href="/wiki/Manual_override" title="Manual override">manual override</a> button, which will disable the <a href="/wiki/Pixel" title="Pixel">pixel</a> lighting for that window for several hours after it is pressed. In addition, the hackers have released <a href="/wiki/Open_Source" class="mw-redirect" title="Open Source">Open Source</a> software tools used to develop new display patterns, so that others can design and deploy new stationary or animated images, in cooperation with the hacker engineers.<sup id="cite_ref-Pourian_14-1" class="reference"><a href="#cite_note-Pourian-14">[14]</a></sup></p>
+<p>On the night after the <a href="/wiki/Boston_Marathon_bombings" class="mw-redirect" title="Boston Marathon bombings">bombings of the Boston marathon</a> of April 15, 2013, the Green Building lighting displayed an American flag pattern.<sup id="cite_ref-Marathon_17-0" class="reference"><a href="#cite_note-Marathon-17">[17]</a></sup><sup id="cite_ref-Awesome_18-0" class="reference"><a href="#cite_note-Awesome-18">[18]</a></sup> After the shooting death of <a href="/wiki/MIT_Campus_Patrol" class="mw-redirect" title="MIT Campus Patrol">MIT Campus Patrolman</a> <a href="/wiki/Sean_Collier" class="mw-redirect" title="Sean Collier">Sean Collier</a> by the alleged bombers a few days later, a 250 foot (76&#160;m) black ribbon pattern was displayed in his memory.<sup id="cite_ref-Marathon_17-1" class="reference"><a href="#cite_note-Marathon-17">[17]</a></sup></p>
+<p>As a prototype feasibility demonstration, the <a href="/wiki/Tech_Model_Railroad_Club" title="Tech Model Railroad Club">Tech Model Railroad Club</a> (located in Building N52) had years earlier added a scale model of the Green Building to its <a href="/wiki/HO_scale" title="HO scale">HO scale</a> <a href="/wiki/Model_railroad" class="mw-redirect" title="Model railroad">model railroad</a> layout. Passersby inside Building N52 can view the model building and railway layout through a large window and play a monochromatic version of Tetris via remote control, accompanied by authentic-sounding music, even when the facility is closed.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></p>
+<p>Other hacks utilize the height of the building, such as a 1974 failed attempt to operate a giant <a href="/wiki/Yoyo" class="mw-redirect" title="Yoyo">yoyo</a> from the roof of the tower.<sup id="cite_ref-TechGreenYoyo_20-0" class="reference"><a href="#cite_note-TechGreenYoyo-20">[20]</a></sup><sup id="cite_ref-TechArmyYoyo_21-0" class="reference"><a href="#cite_note-TechArmyYoyo-21">[21]</a></sup> Launching of projectiles from the roof is strongly discouraged, due to the unpredictable high wind gusts, posing a serious danger to passersby, and residents of nearby <a href="/wiki/List_of_MIT_undergraduate_dormitories#East_Campus_Alumni_Memorial_Housing" class="mw-redirect" title="List of MIT undergraduate dormitories">East Campus</a> dormitory.</p>
+<h3><span class="mw-headline" id="Pumpkin_Drop">Pumpkin Drop</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Building_(MIT)&amp;action=edit&amp;section=5" title="Edit section: Pumpkin Drop">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>At midnight on the last Saturday of October, 1West (the smallest hall in the East Campus dorm) drops a large number of pumpkins (up to the low hundreds) off the roof of the Green Building. Students come to watch, but the area around the foot of the building is quarantined off, to prevent anyone from being hit.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup></p>
+<h2><span class="mw-headline" id="Art">Art</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Building_(MIT)&amp;action=edit&amp;section=6" title="Edit section: Art">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Green Building faces McDermott Court (also known as <b>the dot</b>).<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup> This grassy area is flanked by the 33-ton metal sculpture <i>La Grande Voile</i> (<i>The Big Sail</i>), one of <a href="/wiki/Alexander_Calder" title="Alexander Calder">Alexander Calder</a>'s "stabile" artworks.<sup id="cite_ref-LVACVoile_27-0" class="reference"><a href="#cite_note-LVACVoile-27">[27]</a></sup><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup></p>
+<p>In May 2011, a temporary artwork was installed in the arched "breezeway" at the base of the Green Building, to take advantage of its legendary wind gusts. Designed by Meejin Yoon, an Associate Professor of Architecture, <i>Wind Screen</i> was an array of wind-driven <a href="/wiki/Micro-turbine" class="mw-redirect" title="Micro-turbine">micro-turbine</a> generators that would light up whenever there was enough air movement.<sup id="cite_ref-WindScreen_29-0" class="reference"><a href="#cite_note-WindScreen-29">[29]</a></sup> This installation was featured in the FAST (Festival of Art, Science, and Technology) celebration, part of the <i>MIT 150</i> commemoration of MIT's 150th anniversary.</p>
+<p>On May 18th, 2013, a night-time projection on the <a href="/wiki/Radome" title="Radome">radome</a> on the rooftop of the Green Building by artist <a rel="nofollow" class="external text" href="http://davidyannrobert.com">David Yann Robert</a> beamed the image of Bengali polymath and biophysicist <a href="/wiki/Sir_Jagadish_Chandra_Bose" class="mw-redirect" title="Sir Jagadish Chandra Bose">Sir Jagadish Chandra Bose</a> during a <a rel="nofollow" class="external text" href="http://www.davidyannrobert.com/green-building/">lecture-performance</a> on plant signaling and behavior.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Building_(MIT)&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/List_of_tallest_buildings_and_structures_in_Cambridge,_Massachusetts" title="List of tallest buildings and structures in Cambridge, Massachusetts">List of tallest buildings and structures in Cambridge, Massachusetts</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Building_(MIT)&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Shrock, Robert Rakes (1982). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=w5PU8Bu3trAC&amp;pg=PA166"><i>Geology at MIT 1865-1965: A History of the First Hundred Years of Geology at Massachusetts Institute of Technology</i></a>. MIT Press. p.&#160;166. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780262192118" title="Special:BookSources/9780262192118">9780262192118</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Building+%28MIT%29&amp;rft.aufirst=Robert+Rakes&amp;rft.aulast=Shrock&amp;rft.btitle=Geology+at+MIT+1865-1965%3A+A+History+of+the+First+Hundred+Years+of+Geology+at+Massachusetts+Institute+of+Technology&amp;rft.date=1982&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dw5PU8Bu3trAC%26pg%3DPA166&amp;rft.isbn=9780262192118&amp;rft.pages=166&amp;rft.pub=MIT+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation news">Bushra B. Makiya (1999-10-05). <a rel="nofollow" class="external text" href="http://tech.mit.edu/V119/N47/This_week_in_MI.47f.html">"This Week in MIT History"</a>. <i><a href="/wiki/The_Tech_(newspaper)" title="The Tech (newspaper)">The Tech</a></i>. <b>119</b> (47)<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-05-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Building+%28MIT%29&amp;rft.atitle=This+Week+in+MIT+History&amp;rft.au=Bushra+B.+Makiya&amp;rft.date=1999-10-05&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Ftech.mit.edu%2FV119%2FN47%2FThis_week_in_MI.47f.html&amp;rft.issue=47&amp;rft.jtitle=The+Tech&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=119" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Emporis-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Emporis_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.emporis.com/statistics/tallest-buildings/city/102918/cambridge-ma-usa">"Tallest buildings in Cambridge"</a>. <i>Emporis</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-06-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Building+%28MIT%29&amp;rft.atitle=Tallest+buildings+in+Cambridge&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.emporis.com%2Fstatistics%2Ftallest-buildings%2Fcity%2F102918%2Fcambridge-ma-usa&amp;rft.jtitle=Emporis&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Simha-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Simha_4-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFSimha2001" class="citation journal">Simha, O. Robert (2001). "MIT Campus Planning 1960-2000: An Annotated Chronology". Cambridge, MA: MIT Office of the Executive Vice President: 32–34. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0262692945" title="Special:BookSources/0262692945">0262692945</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Building+%28MIT%29&amp;rft.atitle=MIT+Campus+Planning+1960-2000%3A+An+Annotated+Chronology&amp;rft.aufirst=O.+Robert&amp;rft.aulast=Simha&amp;rft.date=2001&amp;rft.genre=article&amp;rft.isbn=0262692945&amp;rft.pages=32-34&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-MITMap-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-MITMap_5-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://whereis.mit.edu/">"Welcome to the MIT Campus Map"</a>. <i>MIT Campus Map</i>. MIT<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-05-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Building+%28MIT%29&amp;rft.atitle=Welcome+to+the+MIT+Campus+Map&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwhereis.mit.edu%2F&amp;rft.jtitle=MIT+Campus+Map&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Dickson-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Dickson_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Dickson_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Dickson_6-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation interview">Interviewer: Susan Crowley (February 9, 2005). <a rel="nofollow" class="external text" href="http://libraries.mit.edu/archives/oral-history-transcripts/dickson-pdf/dickson9feb2005.pdf"><i>William R. Dickson Oral History Project</i></a> <span style="font-size:85%;">(PDF)</span>. (Interview). MIT Institute Archives &amp; Special Collection<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-05-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Building+%28MIT%29&amp;rft.au=Interviewer%3A+Susan+Crowley&amp;rft.btitle=William+R.+Dickson+Oral+History+Project&amp;rft.date=2005-02-09&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Flibraries.mit.edu%2Farchives%2Foral-history-transcripts%2Fdickson-pdf%2Fdickson9feb2005.pdf&amp;rft.pub=MIT+Institute+Archives+%26+Special+Collection&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://tech.mit.edu/V126/N36/36artsinterview.html">"List Curators Discuss Evolving Face of Public Art by Benjamin P. Gleitzman"</a>. <i><a href="/wiki/The_Tech_(newspaper)" title="The Tech (newspaper)">The Tech</a></i>. <b>126</b> (36). Sep 8, 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-05-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Building+%28MIT%29&amp;rft.atitle=List+Curators+Discuss+Evolving+Face+of+Public+Art+by+Benjamin+P.+Gleitzman&amp;rft.date=2006-09-08&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Ftech.mit.edu%2FV126%2FN36%2F36artsinterview.html&amp;rft.issue=36&amp;rft.jtitle=The+Tech&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=126" class="Z3988"><span style="display:none;">&#160;</span></span> Interview with curators Bill Arning and Patricia Fuller.</span></li>
+<li id="cite_note-GreenBldgHacks-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-GreenBldgHacks_8-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://hacks.mit.edu/Hacks/by_location/54.html">"Hacks on The Green Building (54)"</a>. <i>MIT IHFTP Hack Gallery</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-05-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Building+%28MIT%29&amp;rft.atitle=Hacks+on+The+Green+Building+%2854%29&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fhacks.mit.edu%2FHacks%2Fby_location%2F54.html&amp;rft.jtitle=MIT+IHFTP+Hack+Gallery&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-VUMeterHack-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-VUMeterHack_9-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://hacks.mit.edu/Hacks/by_year/1993/green_bldg_vu_meter/">"The Green Building Sound (VU) Meter"</a>. <i>MIT IHTFP Hack Gallery</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-05-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Building+%28MIT%29&amp;rft.atitle=The+Green+Building+Sound+%28VU%29+Meter&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fhacks.mit.edu%2FHacks%2Fby_year%2F1993%2Fgreen_bldg_vu_meter%2F&amp;rft.jtitle=MIT+IHTFP+Hack+Gallery&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-NightworkGreenspeak-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-NightworkGreenspeak_10-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Institute Historian T.F. Peterson (2011). <i>Nightwork&#160;: a history of hacks and pranks at MIT</i> (Revised 2011 ed.). Cambridge, Mass.: MIT Press / MIT Museum. p.&#160;78. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-262-51584-9" title="Special:BookSources/978-0-262-51584-9">978-0-262-51584-9</a>. <q>Greenspeak spoken here</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Building+%28MIT%29&amp;rft.au=Institute+Historian+T.F.+Peterson&amp;rft.btitle=Nightwork+%3A+a+history+of+hacks+and+pranks+at+MIT&amp;rft.date=2011&amp;rft.edition=Revised+2011&amp;rft.genre=book&amp;rft.isbn=978-0-262-51584-9&amp;rft.pages=78&amp;rft.place=Cambridge%2C+Mass.&amp;rft.pub=MIT+Press+%2F+MIT+Museum&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Greenspeak-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Greenspeak_11-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://hacks.mit.edu/Hacks/by_year/2004/redsox_greenspeak/">"Red Sox Greenspeak"</a>. <i>MIT IHTFP Hack Gallery</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-05-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Building+%28MIT%29&amp;rft.atitle=Red+Sox+Greenspeak&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fhacks.mit.edu%2FHacks%2Fby_year%2F2004%2Fredsox_greenspeak%2F&amp;rft.jtitle=MIT+IHTFP+Hack+Gallery&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-GreenspeakUVa-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-GreenspeakUVa_12-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.faculty.virginia.edu/schoolhouse/WP/Greenspeak.html">"Greenspeak"</a>. <i>UVa Writing Program Instructor Site</i>. University of Virginia<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-05-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Building+%28MIT%29&amp;rft.atitle=Greenspeak&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.faculty.virginia.edu%2Fschoolhouse%2FWP%2FGreenspeak.html&amp;rft.jtitle=UVa+Writing+Program+Instructor+Site&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-FRBDallas-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-FRBDallas_13-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.dallasfed.org/news/speeches/greenspeak.html">"Greenspeak"</a>. <i>FRB Dallas [website]</i>. Federal Reserve Bank of Dallas<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-05-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Building+%28MIT%29&amp;rft.atitle=Greenspeak&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.dallasfed.org%2Fnews%2Fspeeches%2Fgreenspeak.html&amp;rft.jtitle=FRB+Dallas+%5Bwebsite%5D&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Pourian-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-Pourian_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Pourian_14-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Pourian, Jessica J. (May 1, 2012). <a rel="nofollow" class="external text" href="http://tech.mit.edu/V132/N22/tetris.html">"The 'holy grail' of hacks: The construction of one of the most anticipated hacks of all time"</a>. <i><a href="/wiki/The_Tech_(newspaper)" title="The Tech (newspaper)">The Tech</a></i>. <b>132</b> (22)<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-05-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Building+%28MIT%29&amp;rft.atitle=The+%98holy+grail%99+of+hacks%3A+The+construction+of+one+of+the+most+anticipated+hacks+of+all+time&amp;rft.aufirst=Jessica+J.&amp;rft.aulast=Pourian&amp;rft.date=2012-05-01&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Ftech.mit.edu%2FV132%2FN22%2Ftetris.html&amp;rft.issue=22&amp;rft.jtitle=The+Tech&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=132" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Parker-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-Parker_15-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Parker, Brock (April 24, 2012). <a rel="nofollow" class="external text" href="http://www.boston.com/yourtown/news/cambridge/2012/04/hackers_convert_mit_building_i.html">"Hackers convert MIT building in giant Tetris video game"</a>. <i><a href="/wiki/Boston_Globe" class="mw-redirect" title="Boston Globe">Boston Globe</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-05-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Building+%28MIT%29&amp;rft.atitle=Hackers+convert+MIT+building+in+giant+Tetris+video+game&amp;rft.aufirst=Brock&amp;rft.aulast=Parker&amp;rft.date=2012-04-24&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.boston.com%2Fyourtown%2Fnews%2Fcambridge%2F2012%2F04%2Fhackers_convert_mit_building_i.html&amp;rft.jtitle=Boston+Globe&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-HackGalleryTetris-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-HackGalleryTetris_16-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://hacks.mit.edu/Hacks/by_year/2012/tetris/">"Tetris on the Green Building"</a>. MIT IHTFP Hack Gallery<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-05-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Building+%28MIT%29&amp;rft.btitle=Tetris+on+the+Green+Building&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fhacks.mit.edu%2FHacks%2Fby_year%2F2012%2Ftetris%2F&amp;rft.pub=MIT+IHTFP+Hack+Gallery&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Marathon-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-Marathon_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Marathon_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">MIT News Office (April 21, 2013). <a rel="nofollow" class="external text" href="http://web.mit.edu/newsoffice/2013/mits-green-building-pays-tribute-to-the-weeks-events.html">"MIT's Green Building pays tribute to the week's events"</a>. <i>MIT News Office</i><span class="reference-accessdate">. Retrieved <span class="nowrap">28 April</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Building+%28MIT%29&amp;rft.atitle=MIT%27s+Green+Building+pays+tribute+to+the+week%27s+events&amp;rft.au=MIT+News+Office&amp;rft.date=2013-04-21&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fweb.mit.edu%2Fnewsoffice%2F2013%2Fmits-green-building-pays-tribute-to-the-weeks-events.html&amp;rft.jtitle=MIT+News+Office&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Awesome-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-Awesome_18-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Kennedy, Shred. <a rel="nofollow" class="external text" href="http://theawesomeboston.com/famous-mit-green-building-displays-american-flag-lights-after-bombing/">"Famous MIT Green Building Displays American Flag Lights After Bombing"</a>. <i>The Awesome Boston</i>. The Awesome Boston<span class="reference-accessdate">. Retrieved <span class="nowrap">28 April</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Building+%28MIT%29&amp;rft.atitle=Famous+MIT+Green+Building+Displays+American+Flag+Lights+After+Bombing&amp;rft.aufirst=Shred&amp;rft.aulast=Kennedy&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Ftheawesomeboston.com%2Ffamous-mit-green-building-displays-american-flag-lights-after-bombing%2F&amp;rft.jtitle=The+Awesome+Boston&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://tmrc.mit.edu/TNP/GC/GreenBuilding.html">"Green Building"</a>. Tmrc.mit.edu<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-03-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Building+%28MIT%29&amp;rft.btitle=Green+Building&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Ftmrc.mit.edu%2FTNP%2FGC%2FGreenBuilding.html&amp;rft.pub=Tmrc.mit.edu&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-TechGreenYoyo-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-TechGreenYoyo_20-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Moore, Barb (January 16, 1974). <a rel="nofollow" class="external text" href="http://tech.mit.edu/V93/PDF/N56.pdf">"Unusual Activities"</a> <span style="font-size:85%;">(PDF)</span>. <i><a href="/wiki/The_Tech_(newspaper)" title="The Tech (newspaper)">The Tech</a></i>. <b>93</b> (56). p.&#160;3<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-05-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Building+%28MIT%29&amp;rft.atitle=Unusual+Activities&amp;rft.aufirst=Barb&amp;rft.aulast=Moore&amp;rft.date=1974-01-16&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Ftech.mit.edu%2FV93%2FPDF%2FN56.pdf&amp;rft.issue=56&amp;rft.jtitle=The+Tech&amp;rft.pages=3&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=93" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-TechArmyYoyo-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-TechArmyYoyo_21-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://tech.mit.edu/V94/PDF/N5.pdf">"Front page photo caption"</a> <span style="font-size:85%;">(PDF)</span>. <i><a href="/wiki/The_Tech_(newspaper)" title="The Tech (newspaper)">The Tech</a></i>. <b>94</b> (5). February 22, 1974. pp.&#160;1, 4<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-05-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Building+%28MIT%29&amp;rft.atitle=Front+page+photo+caption&amp;rft.date=1974-02-22&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Ftech.mit.edu%2FV94%2FPDF%2FN5.pdf&amp;rft.issue=5&amp;rft.jtitle=The+Tech&amp;rft.pages=1%2C+4&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=94" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web">Lydia K. '14 (Oct 31, 2011). <a rel="nofollow" class="external text" href="http://mitadmissions.org/blogs/entry/pumpkin-drop1">"Pumpkin Drop"</a>. MIT Admissions<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-05-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Building+%28MIT%29&amp;rft.au=Lydia+K.+%2714&amp;rft.btitle=Pumpkin+Drop&amp;rft.date=2011-10-31&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fmitadmissions.org%2Fblogs%2Fentry%2Fpumpkin-drop1&amp;rft.pub=MIT+Admissions&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web">Michael C. '16 (Oct 28, 2012). <a rel="nofollow" class="external text" href="http://mitadmissions.org/blogs/entry/mit-pumpkin-drop-2012">"MIT PUMPKIN DROP 2012!"</a>. MIT Admissions<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-05-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Building+%28MIT%29&amp;rft.au=Michael+C.+%2716&amp;rft.btitle=MIT+PUMPKIN+DROP+2012%21&amp;rft.date=2012-10-28&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fmitadmissions.org%2Fblogs%2Fentry%2Fmit-pumpkin-drop-2012&amp;rft.pub=MIT+Admissions&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation news">Hao, Ziwei (2010-10-29). <a rel="nofollow" class="external text" href="http://tech.mit.edu/V130/N49/halloween.html">"How to get wicked this weekend"</a>. <i><a href="/wiki/The_Tech_(newspaper)" title="The Tech (newspaper)">The Tech</a></i>. <b>130</b> (49)<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-05-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Building+%28MIT%29&amp;rft.atitle=How+to+get+wicked+this+weekend&amp;rft.aufirst=Ziwei&amp;rft.aulast=Hao&amp;rft.date=2010-10-29&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Ftech.mit.edu%2FV130%2FN49%2Fhalloween.html&amp;rft.issue=49&amp;rft.jtitle=The+Tech&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=130" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation news">Jared L. Wong; Mark Fayngersh; Miho Kitagawa (2011-11-01). <a rel="nofollow" class="external text" href="http://tech.mit.edu/V131/N49/graphics/">"Photo Gallery"</a>. <i><a href="/wiki/The_Tech_(newspaper)" title="The Tech (newspaper)">The Tech</a></i>. <b>131</b> (49)<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-05-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Building+%28MIT%29&amp;rft.atitle=Photo+Gallery&amp;rft.au=Jared+L.+Wong&amp;rft.au=Mark+Fayngersh&amp;rft.au=Miho+Kitagawa&amp;rft.date=2011-11-01&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Ftech.mit.edu%2FV131%2FN49%2Fgraphics%2F&amp;rft.issue=49&amp;rft.jtitle=The+Tech&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=131" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation news">Matthew Palmer (2000-04-28). <a rel="nofollow" class="external text" href="http://tech.mit.edu/V120/N23/23dot.23n.html">"McDermott Building Plan Altered"</a>. <i><a href="/wiki/The_Tech_(newspaper)" title="The Tech (newspaper)">The Tech</a></i>. <b>170</b> (23)<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-01-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Building+%28MIT%29&amp;rft.atitle=McDermott+Building+Plan+Altered&amp;rft.au=Matthew+Palmer&amp;rft.date=2000-04-28&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Ftech.mit.edu%2FV120%2FN23%2F23dot.23n.html&amp;rft.issue=23&amp;rft.jtitle=The+Tech&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=170" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-LVACVoile-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-LVACVoile_27-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://listart.mit.edu:8080/Obj4$15">"La Grande Voile (The Big Sail)"</a>. <i>MIT List Visual Arts Center: Collections</i>. MIT Council for the Arts<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-05-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Building+%28MIT%29&amp;rft.atitle=La+Grande+Voile+%28The+Big+Sail%29&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Flistart.mit.edu%3A8080%2FObj4%2415&amp;rft.jtitle=MIT+List+Visual+Arts+Center%3A+Collections&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://virtualglobetrotting.com/map/32757/">"<span style="padding-left:0.2em;">'</span>The Big Sail (La Grande Voile)' by Alexander Calder"</a>. Virtual Globetrotting. 2007-05-10<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-01-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Building+%28MIT%29&amp;rft.btitle=%27The+Big+Sail+%28La+Grande+Voile%29%27+by+Alexander+Calder&amp;rft.date=2007-05-10&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fvirtualglobetrotting.com%2Fmap%2F32757%2F&amp;rft.pub=Virtual+Globetrotting&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-WindScreen-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-WindScreen_29-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://arts.mit.edu/fast/meejin-yoon-wind-screen/">"Meejin Yoon: Wind Screen"</a>. <i>Arts at MIT [website]</i>. MIT Council for the Arts<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-05-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Building+%28MIT%29&amp;rft.atitle=Meejin+Yoon%3A+Wind+Screen&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Farts.mit.edu%2Ffast%2Fmeejin-yoon-wind-screen%2F&amp;rft.jtitle=Arts+at+MIT+%5Bwebsite%5D&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Building_(MIT)&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://eapsweb.mit.edu/">EAPS Website</a></li>
+<li><a rel="nofollow" class="external text" href="http://pa.photoshelter.com/c/ericschmiedl/gallery-show/G0000E2XD..8tfEE/">Photos of the Green Building</a></li>
+<li><a rel="nofollow" class="external text" href="http://structurae.net/structures/data/index.cfm?ID=s0010372">Green Building</a> at <i><a href="/wiki/Structurae" title="Structurae">Structurae</a></i></li>
+</ul>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Green_Building_%28MIT%29&amp;params=42.360431_N_-71.089109_E_type:landmark_region:US"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">42°21′38″N</span> <span class="longitude">71°05′21″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">42.360431°N 71.089109°W</span><span style="display:none">﻿ / <span class="geo">42.360431; -71.089109</span></span></span></a></span></span></span></p>
+<div role="navigation" class="navbox" aria-labelledby="Massachusetts_Institute_of_Technology" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background-color:#A31F34;color:white; border:2px solid #8A8B8C;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:MIT" title="Template:MIT"><abbr title="View this template" style="background-color:#A31F34;color:white; border:2px solid #8A8B8C;;;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:MIT" title="Template talk:MIT"><abbr title="Discuss this template" style="background-color:#A31F34;color:white; border:2px solid #8A8B8C;;;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:MIT&amp;action=edit"><abbr title="Edit this template" style="background-color:#A31F34;color:white; border:2px solid #8A8B8C;;;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Massachusetts_Institute_of_Technology" style="font-size:114%"><a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology"><span style="color:white">Massachusetts Institute of Technology</span></a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A31F34;color:white; border:2px solid #8A8B8C;">Academics</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Massachusetts_Institute_of_Technology_academics" title="Massachusetts Institute of Technology academics">Academics</a></li>
+<li><a href="/wiki/MIT_School_of_Architecture_and_Planning" title="MIT School of Architecture and Planning">School of Architecture and Planning</a></li>
+<li><a href="/wiki/MIT_School_of_Engineering" class="mw-redirect" title="MIT School of Engineering">School of Engineering</a></li>
+<li><a href="/wiki/MIT_School_of_Humanities,_Arts,_and_Social_Sciences" title="MIT School of Humanities, Arts, and Social Sciences">School of Humanities, Arts, and Social Sciences</a></li>
+<li><a href="/wiki/MIT_School_of_Science" class="mw-redirect" title="MIT School of Science">School of Science</a></li>
+<li><a href="/wiki/MIT_Sloan_School_of_Management" title="MIT Sloan School of Management">MIT Sloan School of Management</a></li>
+<li><a href="/wiki/Harvard%E2%80%93MIT_Division_of_Health_Sciences_and_Technology" class="mw-redirect" title="Harvard–MIT Division of Health Sciences and Technology">Division of Health Sciences and Technology</a></li>
+<li><a href="/wiki/MIT_OpenCourseWare" title="MIT OpenCourseWare">OpenCourseWare</a></li>
+<li><a href="/wiki/MIT_Mathematics_Department" title="MIT Mathematics Department">Mathematics Department</a></li>
+<li><a href="/wiki/Singapore_University_of_Technology_and_Design" title="Singapore University of Technology and Design">MIT-SUTD Collaboration</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A31F34;color:white; border:2px solid #8A8B8C;">Research</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Broad_Institute" title="Broad Institute">Broad Institute</a></li>
+<li><a href="/wiki/MIT_Center_for_Information_Systems_Research" title="MIT Center for Information Systems Research">Center for Information Systems Research</a></li>
+<li><a href="/wiki/MIT_Center_for_Theoretical_Physics" title="MIT Center for Theoretical Physics">Center for Theoretical Physics</a></li>
+<li><a href="/wiki/MIT_Computer_Science_and_Artificial_Intelligence_Laboratory" title="MIT Computer Science and Artificial Intelligence Laboratory">Computer Science and Artificial Intelligence Laboratory</a></li>
+<li><a href="/wiki/David_H._Koch_Institute_for_Integrative_Cancer_Research" title="David H. Koch Institute for Integrative Cancer Research">Koch Institute</a></li>
+<li><a href="/wiki/Laboratory_for_Electromagnetic_and_Electronic_Systems" title="Laboratory for Electromagnetic and Electronic Systems">Laboratory for Electromagnetic and Electronic Systems</a></li>
+<li><a href="/wiki/MIT_Laboratory_for_Information_and_Decision_Systems" title="MIT Laboratory for Information and Decision Systems">Laboratory for Information and Decision Systems</a></li>
+<li><a href="/wiki/MIT_Libraries" class="mw-redirect" title="MIT Libraries">MIT Libraries</a></li>
+<li><a href="/wiki/MIT_Lincoln_Laboratory" title="MIT Lincoln Laboratory">MIT Lincoln Laboratory</a></li>
+<li><a href="/wiki/McGovern_Institute_for_Brain_Research" title="McGovern Institute for Brain Research">McGovern Institute</a></li>
+<li><a href="/wiki/MIT_Media_Lab" title="MIT Media Lab">Media Laboratory</a></li>
+<li><a href="/wiki/Picower_Institute_for_Learning_and_Memory" title="Picower Institute for Learning and Memory">Picower Institute</a></li>
+<li><a href="/wiki/MIT_Plasma_Science_and_Fusion_Center" title="MIT Plasma Science and Fusion Center">Plasma Science and Fusion Center</a></li>
+<li><a href="/wiki/Research_Laboratory_of_Electronics_at_MIT" title="Research Laboratory of Electronics at MIT">Research Laboratory of Electronics</a></li>
+<li><a href="/wiki/MIT_Senseable_City_Lab" title="MIT Senseable City Lab">MIT Senseable City Lab</a></li>
+<li><a href="/wiki/MIT_Nuclear_Reactor_Lab" class="mw-redirect" title="MIT Nuclear Reactor Lab">MIT Nuclear Reactor Lab</a></li>
+<li><a href="/wiki/Whitehead_Institute" title="Whitehead Institute">Whitehead Institute</a></li>
+<li><a href="/wiki/MIT_Center_for_International_Studies" title="MIT Center for International Studies">MIT Center for International Studies</a></li>
+<li><a href="/wiki/Center_for_Bits_and_Atoms" title="Center for Bits and Atoms">Center for Bits and Atoms</a></li>
+<li><a href="/wiki/Institute_for_Medical_Engineering_and_Science" title="Institute for Medical Engineering and Science">Institute for Medical Engineering and Science</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A31F34;color:white; border:2px solid #8A8B8C;">People</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_Massachusetts_Institute_of_Technology_alumni" title="List of Massachusetts Institute of Technology alumni">Alumni</a></li>
+<li><a href="/wiki/List_of_Massachusetts_Institute_of_Technology_faculty" title="List of Massachusetts Institute of Technology faculty">Faculty</a></li>
+<li><a href="/wiki/List_of_Presidents_of_the_Massachusetts_Institute_of_Technology" title="List of Presidents of the Massachusetts Institute of Technology">Presidents</a></li>
+<li><a href="/wiki/List_of_Institute_Professors" class="mw-redirect" title="List of Institute Professors">Institute Professors</a></li>
+<li><a href="/wiki/William_Barton_Rogers" title="William Barton Rogers">William Barton Rogers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A31F34;color:white; border:2px solid #8A8B8C;">Culture</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/History_of_the_Massachusetts_Institute_of_Technology" title="History of the Massachusetts Institute of Technology">History</a></li>
+<li><a href="/wiki/List_Visual_Arts_Center" title="List Visual Arts Center">List Visual Arts Center</a></li>
+<li><a href="/wiki/Traditions_and_student_activities_at_MIT" title="Traditions and student activities at MIT">Traditions and activities</a></li>
+<li><a href="/wiki/MIT_in_popular_culture" title="MIT in popular culture">MIT in popular culture</a></li>
+<li><a href="/wiki/MIT_Press" title="MIT Press">MIT Press</a></li>
+<li><i><a href="/wiki/MIT_Technology_Review" title="MIT Technology Review">MIT Technology Review</a></i></li>
+<li><a href="/wiki/Project_Athena" title="Project Athena">Athena</a></li>
+<li><a href="/wiki/MIT_class_ring" title="MIT class ring">Brass Rat</a></li>
+<li><a href="/wiki/Hacks_at_the_Massachusetts_Institute_of_Technology" title="Hacks at the Massachusetts Institute of Technology">Hacks</a></li>
+<li><a href="/wiki/MIT_Science_Fiction_Society" title="MIT Science Fiction Society">MIT Science Fiction Society</a> (MITSFS)</li>
+<li><i><a href="/wiki/The_Tech_(newspaper)" title="The Tech (newspaper)">The Tech</a></i></li>
+<li><a href="/wiki/Student_Information_Processing_Board" title="Student Information Processing Board">Student Information Processing Board</a></li>
+<li><a href="/wiki/Tech_Model_Railroad_Club" title="Tech Model Railroad Club">Tech Model Railroad Club</a></li>
+<li><a href="/wiki/Tech_Squares" title="Tech Squares">Tech Squares</a></li>
+<li><a href="/wiki/MIT_$100K_Entrepreneurship_Competition" title="MIT $100K Entrepreneurship Competition">MIT $100K</a></li>
+<li><a href="/wiki/MIT_Mystery_Hunt" title="MIT Mystery Hunt">Mystery Hunt</a></li>
+<li><a href="/wiki/Smoot" title="Smoot">Smoot</a></li>
+<li><a href="/wiki/Lemelson%E2%80%93MIT_Prize" title="Lemelson–MIT Prize">Lemelson–MIT Prize</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A31F34;color:white; border:2px solid #8A8B8C;">Campus</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Campus_of_the_Massachusetts_Institute_of_Technology" title="Campus of the Massachusetts Institute of Technology">Campus</a></li>
+<li><a href="/wiki/Building_20" title="Building 20">Building 20</a></li>
+<li><a href="/wiki/MIT_Chapel" title="MIT Chapel">Chapel</a></li>
+<li><a href="/wiki/List_of_MIT_fraternities_and_sororities" class="mw-redirect" title="List of MIT fraternities and sororities">Fraternities and sororities</a></li>
+<li><a href="/wiki/List_of_MIT_graduate_dormitories" class="mw-redirect" title="List of MIT graduate dormitories">Graduate residences</a></li>
+<li><strong class="selflink">Green Building</strong></li>
+<li><a href="/wiki/Infinite_Corridor" title="Infinite Corridor">Infinite Corridor</a></li>
+<li><a href="/wiki/Kresge_Auditorium" title="Kresge Auditorium">Kresge Auditorium</a></li>
+<li><a href="/wiki/Massachusetts_Institute_of_Technology_Libraries" title="Massachusetts Institute of Technology Libraries">Libraries</a></li>
+<li><a href="/wiki/MIT_Museum" title="MIT Museum">MIT Museum</a></li>
+<li><a href="/wiki/Massachusetts_Institute_of_Technology_Police_Department" title="Massachusetts Institute of Technology Police Department">Police</a></li>
+<li><a href="/wiki/Ray_and_Maria_Stata_Center" title="Ray and Maria Stata Center">Stata Center</a></li>
+<li><a href="/wiki/List_of_MIT_undergraduate_dormitories" class="mw-redirect" title="List of MIT undergraduate dormitories">Undergraduate residences</a></li>
+<li><a href="/wiki/Wiesner_building" title="Wiesner building">Wiesner building</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A31F34;color:white; border:2px solid #8A8B8C;">Athletics</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/MIT_Engineers" title="MIT Engineers">Engineers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2621926-0!*!0!!en!4!* and timestamp 20161020104502 and revision id 702403753
+ -->
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"teahouse\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"featured-articles-links\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");});</script><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Green_Building_(MIT)&amp;oldid=702403753">https://en.wikipedia.org/w/index.php?title=Green_Building_(MIT)&amp;oldid=702403753</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Buildings_and_structures_completed_in_1964" title="Category:Buildings and structures completed in 1964">Buildings and structures completed in 1964</a></li><li><a href="/wiki/Category:Massachusetts_Institute_of_Technology_buildings" title="Category:Massachusetts Institute of Technology buildings">Massachusetts Institute of Technology buildings</a></li><li><a href="/wiki/Category:I._M._Pei_buildings" title="Category:I. M. Pei buildings">I. M. Pei buildings</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2011" title="Category:Articles with unsourced statements from January 2011">Articles with unsourced statements from January 2011</a></li><li><a href="/wiki/Category:Structurae_ID_not_in_Wikidata" title="Category:Structurae ID not in Wikidata">Structurae ID not in Wikidata</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Green+Building+%28MIT%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Green+Building+%28MIT%29" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Green_Building_(MIT)"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Green_Building_(MIT)"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Green_Building_(MIT)" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Green_Building_(MIT)&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Green_Building_(MIT)&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Green_Building_(MIT)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Green_Building_(MIT)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Green_Building_(MIT)&amp;oldid=702403753" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Green_Building_(MIT)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q5602382" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Green_Building_%28MIT%29&amp;id=702403753" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Green+Building+%28MIT%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Green+Building+%28MIT%29&amp;returnto=Green+Building+%28MIT%29&amp;oldid=702403753&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Green_Building_(MIT)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Green_Building" title="Green Building – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q5602382#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 30 January 2016, at 10:24.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Green_Building_(MIT)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.316",
+            "walltime": "0.385",
+            "ppvisitednodes": {
+                "value": 1741,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 71324,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 1587,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 11,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 1,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 1,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  337.997      1 -total",
+                " 37.27%  125.974      1 Template:Reflist",
+                " 17.90%   60.512      3 Template:Citation_needed",
+                " 16.14%   54.542      3 Template:Fix",
+                " 11.22%   37.915      4 Template:Convert",
+                " 10.95%   37.018     15 Template:Cite_web",
+                " 10.04%   33.932      1 Template:MIT",
+                "  9.52%   32.167      1 Template:Navbox",
+                "  8.40%   28.407      1 Template:Structurae",
+                "  8.01%   27.059      1 Template:WikidataCheck"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.178",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 7115124,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1269",
+            "timestamp": "20161020104503",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":69,"wgHostname":"mw1258"});});</script>
+	</body>
+</html>
