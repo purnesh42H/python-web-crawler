@@ -1,6 +1,6 @@
 These files are build on Python version 2.7x
 
-# How to run the files:
+# How to run the files
 
 In windows:
 Open the python editor IDLE from the menu, and open xxxx.py(eg: Task-1.py for Task-1), then press F5 to run it.
